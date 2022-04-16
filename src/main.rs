@@ -6,5 +6,6 @@ mod days;
 //https://adventofcode.com/2021/day/1
 
 fn main() {
-    days::sonar_sweep::day_1();
+    // days::sonar_sweep::day_1();
+    days::dive::day_2();
 }
